@@ -4,6 +4,12 @@ import java.util.ArrayDeque;
 import java.util.SortedSet;
 import java.util.TreeSet;
 
+/*
+@author Pablo Arturo Pérez Mata
+@email pablo.arturo.perez@gmail.com
+@description Practica de evaluación de números capicúa de hasta 4 cifras
+*/
+
 public class Main {
 
     private static boolean esCapicua(int num) {
